@@ -1,0 +1,5 @@
+Hi there!	Hello!
+How are you?	I'm fine, thank you. How about you?
+I'm doing well, thanks!	Glad to hear that!
+What's your name?	My name is Chatbot. What's yours?
+I'm John.	Nice to meet you, John!
